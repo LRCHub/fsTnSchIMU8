@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "デリヘル呼んだら君が来た",
+  "base_artist": "SymaG",
+  "createdAt": "2026-04-01T01:56:24.158057Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "デリヘル呼んだら君が来た",
+      "artist": "Nanahoshi Orchestra feat.Hatsune, Miku, IA",
+      "has_synced": false,
+      "path": "select/01_デリヘル呼んだら君が来た_Nanahoshi_Orchestra_feat.Hatsune,_Miku,_IA.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "デリヘル呼んだら君が来た (Cover)",
+      "artist": "CocoTsuki",
+      "has_synced": true,
+      "path": "select/02_デリヘル呼んだら君が来た_(Cover)_CocoTsuki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "デリヘル呼んだら君が来た - Original Ver.",
+      "artist": "NanahoshiKangengakudan",
+      "has_synced": true,
+      "path": "select/03_デリヘル呼んだら君が来た_-_Original_Ver._NanahoshiKangengakudan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "デリヘル呼んだら君が来た",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/04_デリヘル呼んだら君が来た_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "デリヘル呼んだら君が来た",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/05_デリヘル呼んだら君が来た_Various.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "デリヘル呼んだら君が来た",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/06_デリヘル呼んだら君が来た_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "デリヘル呼んだら君が来た",
+      "artist": "島爺",
+      "has_synced": false,
+      "path": "select/pl_01_デリヘル呼んだら君が来た_島爺.txt"
+    }
+  ]
+}
